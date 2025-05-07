@@ -1,0 +1,50 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Cloudburst's Musings"
+description = "My first blog"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "January 2 2006"
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Dom"
+  image = "img/author.jpg"
+  headline = "An enthusiast of far too many things."
+  bio = "An enthusiast of far too many things."
+   links = [
+     { email = "mailto:blog@cloudburst.anonaddy.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+     { github = "https://github.com/dmandrone" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { hashnode = "https://username.hashnode.dev" },
+     { instagram = "https://www.instagram.com/dom35mm" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kofi = "https://ko-fi.com/username" },
+     { lastfm = "https://www.last.fm/user/mantrooo" },
+  #   { linkedin = "https://linkedin.com/in/username" },
+  #   { medium = "https://medium.com/username" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { telegram = "https://t.me/username" },
+  #   { threads = "https://threads.net/@username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+     { tumblr = "https://koyukistelecaster.tumblr.com/" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { x-twitter = "https://twitter.com/username" },
+  #   { youtube = "https://youtube.com/username" },
+  #   { xing = "https://xing.com/profile/username" },
+   ]
